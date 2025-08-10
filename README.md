@@ -6,4 +6,5 @@ Header(h1, h2, h3),
 Anchor tag (a),
 Image tag(img),
 Paragraph(p),
-Rule(hr)
+Rule(hr),
+Lists(ul and ol)
